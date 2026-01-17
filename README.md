@@ -10,3 +10,8 @@ and building foundational skills as a software developer.
 
 ## Status
 In progress 🚧
+
+## Git Learning
+- Practicing daily Git workflows
+- Understanding commits, branches, and pushes
+
